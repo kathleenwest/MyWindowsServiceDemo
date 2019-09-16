@@ -1,37 +1,42 @@
-# SimpleGreetingWCFServiceLibrary&Host&ClientDemo
+# MyWindowsServiceDemo
 
-WCF Simple Greeting Service Library & Service Host Console Application Supporting Http and TCP Protocols & Client “Tester" Console Application 
+Positive Affirmations WCF Service Library & Windows Services Hosting & Client “Tester" Windows Form Application 
 
 Project Blog Article here: 
-https://portfolio.katiegirl.net/2019/04/20/wcf-simple-greeting-service-library-service-host-console-application-supporting-http-and-tcp-protocols-client-tester-console-application/
+https://portfolio.katiegirl.net/2019/09/16/positive-affirmations-wcf-service-library-windows-services-hosting-client-tester-windows-form-application/
 
 
 About
 
-This project presents a simple WCF Greeting Service that demos architectural styles of setting up, hosting, configuring services, and testing for dual protocols: http and tcp. The service accepts a simple string, which represents a name, and returns a simple string with a greeting that acknowledges the name.  Instead of using IIS Express, the simple greeting service is hosted using a console application. The Visual Studio solution also has two client “tester” applications that test both the http and tcp protocol connections to the hosted service. 
+This project presents a simple WCF Positive Affirmations Service that demos architectural styles of setting up, hosting via a Windows Service, configuring services, and testing for tcp protocols. The service accepts a simple string, which represents a name, and returns a simple string with a randomized positive affirmation that acknowledges the name.  Instead of using IIS Express, the simple service is hosted using Windows Services. The Visual Studio solution also has one client “tester” Windows Form application that tests the tcp protocol connection to the hosted service.
 
 
 Architecture
 
+
 The demo project consists of these component topics:
 
 
-•	SimpleGreeting Service Library
-o	ISimpleGreetingService (Interface for Service)
-o	SimpleGreetingService (Code that Implements the Service Interface)
+•	MyAffirmationServiceLib Service Library
+
+o	IAffirmationService (Interface for Service)
+
+o	AffirmationService (Code that Implements the Service Interface)
 
 
-•	ServiceHostApplication “Service Host” Console Application
-o	Hosts the SimpleGreeting Service
-o	Started/Stopped Using Console Window Interface
+•	PositiveAffirmationsHost “Service Host” Windows Service Application
+
+o	Hosts the Service
+
+o	Installer Included and Configured
+
+o	Started/Stopped Using Windows Services
 
 
-•	HttpClient “Tester to Service” Console Application
-o	Connected Service “Proxy Reference” SimpleGreetingServiceReference
-o	Simple Program to test the service @ http endpoint
+•	TestClientGUI “Tester to Service” Windows Form Application
 
+o	Connected Service “Proxy Reference” 
 
-•	TcpClient “Tester to Service” Console Application
-o	Connected Service “Proxy Reference” SimpleGreetingServiceReference
 o	Simple Program to test the service @ tcp endpoint
+
 
