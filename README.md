@@ -16,27 +16,17 @@ Architecture
 
 The demo project consists of these component topics:
 
-
 •	MyAffirmationServiceLib Service Library
-
-o	IAffirmationService (Interface for Service)
-
-o	AffirmationService (Code that Implements the Service Interface)
-
+	o	IAffirmationService (Interface for Service)
+	o	AffirmationService (Code that Implements the Service Interface)
 
 •	PositiveAffirmationsHost “Service Host” Windows Service Application
-
-o	Hosts the Service
-
-o	Installer Included and Configured
-
-o	Started/Stopped Using Windows Services
-
+	o	Hosts the Service
+	o	Installer Included and Configured
+	o	Started/Stopped Using Windows Services
 
 •	TestClientGUI “Tester to Service” Windows Form Application
-
-o	Connected Service “Proxy Reference” 
-
-o	Simple Program to test the service @ tcp endpoint
+	o	Connected Service “Proxy Reference” 
+	o	Simple Program to test the service @ tcp endpoint
 
 
