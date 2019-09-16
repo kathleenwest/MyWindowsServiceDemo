@@ -1,0 +1,14 @@
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\MyGreetingServiceLib\bin\Debug\MyAffirmationServiceLib.dll.config
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\MyGreetingServiceLib\bin\Debug\MyAffirmationServiceLib.dll
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\MyGreetingServiceLib\bin\Debug\MyAffirmationServiceLib.pdb
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\MyGreetingServiceLib\obj\Debug\MyAffirmationServiceLib.csprojAssemblyReference.cache
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\MyGreetingServiceLib\obj\Debug\MyAffirmationServiceLib.csproj.CoreCompileInputs.cache
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\MyGreetingServiceLib\obj\Debug\MyAffirmationServiceLib.dll
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\MyGreetingServiceLib\obj\Debug\MyAffirmationServiceLib.pdb
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\MyAffirmationServiceLib\obj\Debug\MyAffirmationServiceLib.csprojAssemblyReference.cache
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\MyAffirmationServiceLib\obj\Debug\MyAffirmationServiceLib.csproj.CoreCompileInputs.cache
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\MyAffirmationServiceLib\obj\Debug\MyAffirmationServiceLib.dll
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\MyAffirmationServiceLib\obj\Debug\MyAffirmationServiceLib.pdb
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\MyAffirmationServiceLib\bin\Debug\MyAffirmationServiceLib.dll.config
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\MyAffirmationServiceLib\bin\Debug\MyAffirmationServiceLib.dll
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\MyAffirmationServiceLib\bin\Debug\MyAffirmationServiceLib.pdb

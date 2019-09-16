@@ -1,0 +1,13 @@
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\PositiveAffirmationsHost\bin\Debug\PositiveAffirmationsHost.exe.config
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\PositiveAffirmationsHost\bin\Debug\PositiveAffirmationsHost.exe
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\PositiveAffirmationsHost\bin\Debug\PositiveAffirmationsHost.pdb
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\PositiveAffirmationsHost\bin\Debug\MyAffirmationServiceLib.dll
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\PositiveAffirmationsHost\bin\Debug\MyAffirmationServiceLib.pdb
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\PositiveAffirmationsHost\bin\Debug\MyAffirmationServiceLib.dll.config
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\PositiveAffirmationsHost\obj\Debug\PositiveAffirmationsHost.ProjectInstaller.resources
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\PositiveAffirmationsHost\obj\Debug\PositiveAffirmationsHost.csproj.GenerateResource.cache
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\PositiveAffirmationsHost\obj\Debug\PositiveAffirmationsHost.csproj.CoreCompileInputs.cache
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\PositiveAffirmationsHost\obj\Debug\PositiveAffirmationsHost.csproj.CopyComplete
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\PositiveAffirmationsHost\obj\Debug\PositiveAffirmationsHost.exe
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\PositiveAffirmationsHost\obj\Debug\PositiveAffirmationsHost.pdb
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\PositiveAffirmationsHost\obj\Debug\PositiveAffirmationsHost.csprojAssemblyReference.cache

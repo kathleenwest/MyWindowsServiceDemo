@@ -1,0 +1,15 @@
+﻿Installing assembly 'C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\PositiveAffirmationsHost\bin\Release\PositiveAffirmationsHost.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\PositiveAffirmationsHost\bin\Release\PositiveAffirmationsHost.InstallLog
+   assemblypath = C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\PositiveAffirmationsHost\bin\Release\PositiveAffirmationsHost.exe
+   logtoconsole = 
+Installing service PositiveAffirmation...
+Service PositiveAffirmation has been successfully installed.
+Creating EventLog source PositiveAffirmation in log Application...
+Committing assembly 'C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\PositiveAffirmationsHost\bin\Release\PositiveAffirmationsHost.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\PositiveAffirmationsHost\bin\Release\PositiveAffirmationsHost.InstallLog
+   assemblypath = C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\PositiveAffirmationsHost\bin\Release\PositiveAffirmationsHost.exe
+   logtoconsole = 

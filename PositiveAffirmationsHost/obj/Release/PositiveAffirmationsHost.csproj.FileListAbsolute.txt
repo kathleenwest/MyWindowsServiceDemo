@@ -1,0 +1,13 @@
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\PositiveAffirmationsHost\obj\Release\PositiveAffirmationsHost.csprojAssemblyReference.cache
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\PositiveAffirmationsHost\obj\Release\PositiveAffirmationsHost.ProjectInstaller.resources
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\PositiveAffirmationsHost\obj\Release\PositiveAffirmationsHost.csproj.GenerateResource.cache
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\PositiveAffirmationsHost\obj\Release\PositiveAffirmationsHost.csproj.CoreCompileInputs.cache
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\PositiveAffirmationsHost\bin\Release\PositiveAffirmationsHost.exe.config
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\PositiveAffirmationsHost\bin\Release\PositiveAffirmationsHost.exe
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\PositiveAffirmationsHost\bin\Release\PositiveAffirmationsHost.pdb
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\PositiveAffirmationsHost\bin\Release\MyAffirmationServiceLib.dll
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\PositiveAffirmationsHost\bin\Release\MyAffirmationServiceLib.pdb
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\PositiveAffirmationsHost\bin\Release\MyAffirmationServiceLib.dll.config
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\PositiveAffirmationsHost\obj\Release\PositiveAffirmationsHost.csproj.CopyComplete
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\PositiveAffirmationsHost\obj\Release\PositiveAffirmationsHost.exe
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\PositiveAffirmationsHost\obj\Release\PositiveAffirmationsHost.pdb

@@ -1,0 +1,10 @@
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\TestClientGUI\bin\Debug\TestClientGUI.exe.config
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\TestClientGUI\bin\Debug\TestClientGUI.exe
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\TestClientGUI\bin\Debug\TestClientGUI.pdb
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\TestClientGUI\obj\Debug\TestClientGUI.csprojAssemblyReference.cache
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\TestClientGUI\obj\Debug\TestClientGUI.frmMainScreen.resources
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\TestClientGUI\obj\Debug\TestClientGUI.Properties.Resources.resources
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\TestClientGUI\obj\Debug\TestClientGUI.csproj.GenerateResource.cache
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\TestClientGUI\obj\Debug\TestClientGUI.csproj.CoreCompileInputs.cache
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\TestClientGUI\obj\Debug\TestClientGUI.exe
+C:\Users\kathl\Dropbox\Projects\MyWindowsServiceDemo\TestClientGUI\obj\Debug\TestClientGUI.pdb
